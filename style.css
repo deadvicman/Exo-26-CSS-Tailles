@@ -1,0 +1,37 @@
+.cadre {
+    color: coral;
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+}
+
+.cadre p a {
+    text-decoration: none;
+    color: red;
+
+}
+
+.shadow {
+    text-shadow: 1px 1px 2px pink;
+    border: 1px solid black;
+}
+
+ul li:nth-child(odd) {
+    font-style: italic;
+
+}
+
+ul li:nth-child(even) {
+    font-weight: bold;
+}
+
+p {
+    margin: 15px;
+    padding: 20px;
+}
+.image {
+    position: relative;
+    top: 20px;
+    left: 1280px;
+
+}
